@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Phase1 Challenge</string>
+    <string name="welcome_string">Welcome to ALC 4.0</string>
+    <string name="text_about_alc">ABOUT ALC</string>
+    <string name="text_my_profile">MY PROFILE</string>
+    <string name="text_ALC4_phase1">ALC 4 Phase 1</string>
+    <string name="text_my_name">Lupyana Mbembati</string>
+    <string name="label_track">Track :</string>
+    <string name="label_country">Country :</string>
+    <string name="label_email">Email :</string>
+    <string name="label_phone">Phone Number :</string>
+    <string name="label_slack">Slack Username :</string>
+    <string name="text_image_description">profile_image</string>
+    <string name="text_my_track">Android</string>
+    <string name="text_my_country">Tanzania</string>
+    <string name="text_my_email">lupyanambembati@gmail.com</string>
+    <string name="text_my_phone_number">255717515800</string>
+    <string name="text_my_slack">\@lupyana</string>
+    <string name="label_aboutALC">About ALC</string>
+    <string name="label_MyProfile">My Profile</string>
+</resources>
